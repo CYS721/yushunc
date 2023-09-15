@@ -1,6 +1,6 @@
 ---
 title: "Yushun Cheng"
-subtitle: "Graduate student at The University of British Columbia"
+subtitle: "Graduate Student at The University of British Columbia"
 ---
 
 This is my personal website.

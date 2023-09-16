@@ -1,0 +1,6 @@
+---
+title: "Resume"
+---
+
+<embed src="Yushun_Resume_Apr-2023.pdf" width="120%" height="600px" type="application/pdf">
+```

@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "```"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yushun Cheng",
@@ -11,6 +18,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "I am a graduate student at The University of British Columbia, studying Computational Linguistics. While pursuing my studies at UBC, I am also employed as a Data Engineering Developer at Bell Canada. Prior to moving to Vancouver, I worked for one year as a Data Science Developer under the Graduate Leadership program at Bell in Montreal, where I completed my Honours Bachelor’s degree in Computer Science from Concordia University."
+  },
+  {
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Publication",
+    "section": "",
+    "text": "[1] Nelson Filipe Costa, Yushun Cheng, Thomas Chapados Muermans, Blaise Hanel and Leila Kosseim (2023). Automatic Identification of Chinese Paired Discourse Connectives. In Proceedings of the 17th IEEE International Conference on Semantic Computing (IEEE ICSC 2023) (4 pages), February, Laguna Hills, California, USA."
   }
 ]

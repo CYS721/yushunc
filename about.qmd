@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+I am a graduate student at The University of British Columbia, studying Computational Linguistics. While pursuing my studies at UBC, I am also employed as a Data Engineering Developer at Bell Canada. Prior to moving to Vancouver, I worked for one year as a Data Science Developer under the Graduate Leadership program at Bell in Montreal, where I completed my Honours Bachelor's degree in Computer Science from Concordia University.

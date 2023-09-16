@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Yushun's website/"
+  title: "Yushun's website"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
+      - publication.qmd
 
 format:
   html:

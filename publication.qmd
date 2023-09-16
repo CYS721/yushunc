@@ -1,0 +1,5 @@
+---
+title: "Publication"
+---
+
+[1]  Nelson Filipe Costa, Yushun Cheng, Thomas Chapados Muermans, Blaise Hanel and [Leila Kosseim](https://users.encs.concordia.ca/~kosseim/) (2023). [Automatic Identification of Chinese Paired Discourse Connectives](https://ieeexplore.ieee.org/document/10066811).  In Proceedings of the 17th IEEE International Conference on Semantic Computing (IEEE ICSC 2023) (4 pages), February, Laguna Hills, California, USA.

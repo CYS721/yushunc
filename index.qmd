@@ -2,7 +2,7 @@
 title: "Yushun Cheng"
 subtitle: "Graduate Student at The University of British Columbia"
 ---
-<img src='/docs/assets/pic.jpg' align="right" width='200'>
+
 This is my personal website.
 
 

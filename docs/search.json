@@ -2,7 +2,7 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Resume",
+    "title": "Resume EN",
     "section": "",
     "text": "```"
   },
@@ -26,5 +26,19 @@
     "title": "Publication",
     "section": "",
     "text": "[1] Nelson Filipe Costa, Yushun Cheng, Thomas Chapados Muermans, Blaise Hanel and Leila Kosseim (2023). Automatic Identification of Chinese Paired Discourse Connectives. In Proceedings of the 17th IEEE International Conference on Semantic Computing (IEEE ICSC 2023) (4 pages), February, Laguna Hills, California, USA."
+  },
+  {
+    "objectID": "resume_ZH.html",
+    "href": "resume_ZH.html",
+    "title": "简历",
+    "section": "",
+    "text": "```"
+  },
+  {
+    "objectID": "resume_FR.html",
+    "href": "resume_FR.html",
+    "title": "Résumé",
+    "section": "",
+    "text": "To be developed…"
   }
 ]

@@ -1,0 +1,6 @@
+---
+title: "简历"
+---
+
+<embed src="Yushun_Resume_ZH.pdf" width="120%" height="600px" type="application/pdf">
+

@@ -1,6 +1,9 @@
 ---
-title: "Resume"
+title: "Résumé"
 ---
+To be developed...
 
+<!--
 <embed src="Yushun_Resume.pdf" width="120%" height="600px" type="application/pdf">
+-->
 

@@ -1,6 +1,6 @@
 ---
 title: "Yushun Cheng"
-subtitle: "Graduate Student at The University of British Columbia"
+subtitle: "Developer, AI & Data Engineering at Bell Canada <br> Graduate Student at The University of British Columbia"
 ---
 
 <p><img src="./docs/pic.jpg" align="right" width="200"> This is my personal website.</p>

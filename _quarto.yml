@@ -9,7 +9,12 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - resume.qmd
+      - text: "Resume"
+        menu:
+          - resume.qmd
+          - resume_FR.qmd 
+          - resume_ZH.qmd 
+
       - publication.qmd
 
 format:

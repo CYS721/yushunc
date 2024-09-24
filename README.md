@@ -1,4 +1,4 @@
-# README for Pet Management Project
+# README for Pet Project
 
 ---
 
